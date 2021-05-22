@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="change_colour_button_name">Colour</string>
+    <string name="item_name">Apples</string>
+    <string name="hint">Enter item name</string>
+    <string name="check_box">Mark Purchased</string>
+    <string name="delete">Delete item</string>
+    <string name="confirm">Confirm</string>
+    <string name="delete_all">Remove&#10; Checked</string>
+    <string name="sort">Sort</string>
+    <string name="back_button">Back</string>
+    <string name="purchased">Got</string>
+    <string name="not_purchased">Need to get</string>
+    <string name="confirm_add_button_name">Add</string>
+    <string name="add_item_button_name">+ Add Item</string>
+    <string name="ad_test_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_id">PLACEHOLDER</string>
+</resources>
