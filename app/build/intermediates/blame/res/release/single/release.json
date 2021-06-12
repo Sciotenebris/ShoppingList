@@ -124,6 +124,10 @@
         "source": "C:\\Users\\44751\\AndroidStudioProjects\\ShoppingList\\app\\src\\main\\res\\mipmap-anydpi-v26\\icon_round.xml"
     },
     {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\drawable_icon_background.xml.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\ShoppingList\\app\\src\\main\\res\\drawable\\icon_background.xml"
+    },
+    {
         "merged": "C:\\Users\\44751\\AndroidStudioProjects\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_tick.png.flat",
         "source": "C:\\Users\\44751\\AndroidStudioProjects\\ShoppingList\\app\\src\\main\\res\\drawable-xhdpi\\tick.png"
     },
@@ -158,6 +162,10 @@
     {
         "merged": "C:\\Users\\44751\\AndroidStudioProjects\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_icon_foreground.png.flat",
         "source": "C:\\Users\\44751\\AndroidStudioProjects\\ShoppingList\\app\\src\\main\\res\\mipmap-xhdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\layout_shopping_entry.xml.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\ShoppingList\\app\\src\\main\\res\\layout\\shopping_entry.xml"
     },
     {
         "merged": "C:\\Users\\44751\\AndroidStudioProjects\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_icon_round.png.flat",
